@@ -1,0 +1,5 @@
+# Ignore the heavy dataset file
+nobel.csv
+
+# Ignore Python background folder
+__pycache__/
